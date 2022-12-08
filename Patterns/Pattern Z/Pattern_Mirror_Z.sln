@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_Mirror_Z", "Pattern_Mirror_Z.csproj", "{010CA6EE-6268-4E2D-9568-C763252EE668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010CA6EE-6268-4E2D-9568-C763252EE668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010CA6EE-6268-4E2D-9568-C763252EE668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010CA6EE-6268-4E2D-9568-C763252EE668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010CA6EE-6268-4E2D-9568-C763252EE668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50BD44D3-7991-425E-A1A5-DC9A53015148}
+	EndGlobalSection
+EndGlobal
