@@ -17,11 +17,11 @@ namespace Hourglass
                 {
                     if (i == j || i + j == n - 1 || i == n / 2 || j == n / 2)
                     {
-                        Console.Write("* ");
+                        Console.Write("*");
                     }
                     else
                     {
-                        Console.Write("  ");
+                        Console.Write(" ");
                     }
                 }
                 Console.WriteLine();
