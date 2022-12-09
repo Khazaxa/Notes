@@ -12,11 +12,11 @@ namespace PatternZ
                 {
                     if (i == 0 || i == n - 1 || i + j == n - 1)
                     {
-                        Console.Write("* ");
+                        Console.Write("*");
                     }
                     else
                     {
-                        Console.Write("  ");
+                        Console.Write(" ");
                     }
                 }
                 Console.WriteLine();
